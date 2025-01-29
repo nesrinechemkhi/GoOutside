@@ -1,15 +1,13 @@
 # GoOutside
 # Project Reflection Template
 ## Summary
-[Provide a brief overview of your project.]
+The purpose of this project is to help unlock the data warehouse of GoOutside; a company that focuses on selling camping equipment.
 ## Languages and Libraries Used
-[List the programming languages, libraries, and tools utilized in your project.]
+The work for this project was a combination of BigQuery, Google Sheets and Looker Studio.
 ## Key Learnings
-[Reflect on the main skills you practiced and insights gained from completing the project. Do not
-limit them to technical skills, remember as a Data Scientist a core part of your job is
-communicating technical insights to non-technical audiences.]
+MySQL knowledge helped immensely with coding on BigQuery. 
+Looker Studio is a powerful and user-friendly tool to represent data that non-technical users can easily understand and manipulate themselves through filters and buttons.
 ## Challenges Overcame
-[Share any challenges encountered during the project and how you overcame them.]
+Working on large datasets and connecting them to each other was somewhat challenging. I tried joining all the tables to see what it looks like, but ended up learning that it is best to specify our need and create queries to narrow down to only the information needed.
 ## Additional Reflections
-[Feel free to add any additional reflections or insights gained from working on this project.]
-
+Connecting BigQuery to Google Sheets to Looker Studio was a great discovery, as it helped the data be synchronized at all times.
